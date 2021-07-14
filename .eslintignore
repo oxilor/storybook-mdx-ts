@@ -1,0 +1,9 @@
+# Build output
+dist/
+
+# ESLint
+.eslintrc.js
+
+# Jest
+jest.config.js
+jest.transform.js
